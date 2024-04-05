@@ -1,25 +1,11 @@
-: sensory-verbs
-eye see ear ear
-see eye listen walk
-ear foot eye see
-listen see see eye
-eye see foot eye
-see eye walk walk
-foot foot eye see
-walk see see eye
-ear listen eye eye
-listen ear see listen
-eye ear ear listen
-see ear listen ear
-ear listen foot see
-listen ear walk eye
-foot listen ear listen
-walk foot listen ear
-foot walk eye walk
-walk foot see ear
-eye listen foot walk
-see foot walk foot
-foot walk ear walk
-walk foot listen eye
-ear see foot walk
-listen listen walk foot
+: custom-knowledge
+Italy Pizza Japan Sushi
+Brazil Football Canada Maple Syrup
+Australia Kangaroo Egypt Pyramids
+India Bollywood China Great Wall
+France Wine Russia Ballet
+USA Hollywood UK Tea
+Mexico Mariachi Spain Flamenco
+Germany Cars Switzerland Chocolate
+Greece Philosophy Turkey Bazaar
+Netherlands Tulips South Korea K-Pop
